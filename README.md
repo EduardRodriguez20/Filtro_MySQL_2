@@ -2,6 +2,13 @@
 
 Eduard Andres Rodriguez Holguin - Campuslands
 
+### Diagramas
+
+![drawSQL-filtro-mysql-2-export-2023-12-07](https://github.com/EduardRodriguez20/Filtro_MySQL_2/assets/137240216/fa754507-dac5-4a70-9627-32c8e8b03fff)
+
+![filtro 2](https://github.com/EduardRodriguez20/Filtro_MySQL_2/assets/137240216/8d60a8d9-8c3b-4299-8028-44e259203816)
+
+
 ### Creacion y poblacion de las tablas
 
 A continuacion se especifica la creacion de tablas y la poblacion de ellas mismas teniendo en cuenta mi criterio.
